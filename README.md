@@ -30,13 +30,22 @@ STATUS: ONLINE
 
 EDUCATION:
   B.E Computer Science & Engineering (AI & ML)
+##  STATUS
 
-CURRENT_FOCUS:
-  - Machine Learning
-  - Computer Vision
-  - Deep Learning
-  - Autonomous Systems
-  - Cloud Computing
+```text
+██████████████████████  Python               90%
+
+████████████████████░░  Machine Learning     85%
+
+██████████████████░░░░  Computer Vision      80%
+
+████████████████░░░░░░  Deep Learning        75%
+
+██████████████░░░░░░░░  Cloud Computing      70%
+
+████████████░░░░░░░░░░  DSA                  Training...
+```
+
 
 MISSION:
   Build intelligent systems that solve real-world problems.
