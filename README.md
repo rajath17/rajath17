@@ -106,17 +106,6 @@ class RajathMohare:
 
 ---
 
-## 🌱 RaithaVarta Smart Farming Assistant
-
-```diff
-+ Android Application
-+ Firebase Authentication
-+ Weather Integration
-+ Government Schemes
-+ Market Price Tracking
-```
-
----
 
 # 🧠 TECH STACK
 
