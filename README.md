@@ -30,21 +30,7 @@ STATUS: ONLINE
 
 EDUCATION:
   B.E Computer Science & Engineering (AI & ML)
-##  STATUS
 
-```text
-██████████████████████  Python               90%
-
-████████████████████░░  Machine Learning     85%
-
-██████████████████░░░░  Computer Vision      80%
-
-████████████████░░░░░░  Deep Learning        75%
-
-██████████████░░░░░░░░  Cloud Computing      70%
-
-████████████░░░░░░░░░░  DSA                  Training...
-```
 
 
 MISSION:
