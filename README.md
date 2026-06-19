@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="assets/banner.png" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajath17/rajath17/main/banner.png" width="100%">
+</p>
 
 # ⚡ RAJATH MOHARE
 
