@@ -157,21 +157,7 @@ An AI-powered application designed to support online examination monitoring.
 
 **Focus:** AI-driven examination monitoring and automation.
 
-<h3>🌾 04. RaithaVarta – Smart Farming Assistant</h3>
 
-**Android | Kotlin | Firebase**
-
-A farmer-focused mobile application providing agricultural information and assistance.
-
-```diff
-+ Crop Information
-+ Weather API Integration
-+ Government Schemes
-+ English & Kannada Support
-+ Firebase Integration
-```
-
-**Focus:** Using technology to make agricultural information accessible.
 
 <p align="center">
   <a href="https://github.com/rajath17?tab=repositories">
